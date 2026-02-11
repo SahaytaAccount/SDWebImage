@@ -255,7 +255,7 @@ use_frameworks!
 pod 'SDWebImage'
 ```
 #### User
-SahaytaStartEndSahayta
+SahaytaStartfyinformationUserccEndSahayta
 
 #### Subspecs
 
